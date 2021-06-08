@@ -4,6 +4,9 @@ kheer
 pasta
 chicken
 
+beans 
+pizza
+
 
 
 
@@ -11,4 +14,9 @@ chicken
 
 Thank u :)
 
+
+
+done my changes
+
 final copy
+
